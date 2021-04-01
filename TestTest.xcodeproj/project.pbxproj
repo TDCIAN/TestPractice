@@ -15,6 +15,7 @@
 		18DBE94326154D8E009BFD6A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18DBE94126154D8E009BFD6A /* LaunchScreen.storyboard */; };
 		18DBE94E26154D8F009BFD6A /* TestTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DBE94D26154D8F009BFD6A /* TestTestTests.swift */; };
 		18DBE95926154D8F009BFD6A /* TestTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DBE95826154D8F009BFD6A /* TestTestUITests.swift */; };
+		18DBE96A26154E35009BFD6A /* MathStuff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DBE96926154E35009BFD6A /* MathStuff.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		18DBE95426154D8F009BFD6A /* TestTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18DBE95826154D8F009BFD6A /* TestTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestTestUITests.swift; sourceTree = "<group>"; };
 		18DBE95A26154D8F009BFD6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18DBE96926154E35009BFD6A /* MathStuff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MathStuff.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				18DBE93F26154D8E009BFD6A /* Assets.xcassets */,
 				18DBE94126154D8E009BFD6A /* LaunchScreen.storyboard */,
 				18DBE94426154D8E009BFD6A /* Info.plist */,
+				18DBE96926154E35009BFD6A /* MathStuff.swift */,
 			);
 			path = TestTest;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18DBE96A26154E35009BFD6A /* MathStuff.swift in Sources */,
 				18DBE93B26154D8E009BFD6A /* ViewController.swift in Sources */,
 				18DBE93726154D8E009BFD6A /* AppDelegate.swift in Sources */,
 				18DBE93926154D8E009BFD6A /* SceneDelegate.swift in Sources */,
